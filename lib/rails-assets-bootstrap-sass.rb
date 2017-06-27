@@ -1,6 +1,6 @@
 require "rails-assets-bootstrap-sass/version"
 
-require "rails-assets-jquery"
+#require "rails-assets-jquery"
 
 module RailsAssetsBootstrapSass
 
